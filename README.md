@@ -1,5 +1,5 @@
 # parkinglot
-🚗 공영 주차장으로 주차난 해소
+🚗 서울시의 주차난 도식화 및 해결 방안 제시
 
 <img width="641" alt="pl1" src="https://github.com/eonwy/parkinglot/assets/123355786/153542e8-d243-4661-979b-129c5dd87039">
 <img width="641" alt="pl2" src="https://github.com/eonwy/parkinglot/assets/123355786/d638f30d-3894-44c6-8280-80ba69d86749">
